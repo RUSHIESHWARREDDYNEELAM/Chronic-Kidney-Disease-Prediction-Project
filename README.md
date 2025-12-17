@@ -1,11 +1,6 @@
 
 # Chronic Kidney Disease Prediction Project ❤
 
-#### If you want to view the deployed model, click on the following link:
-
-• https://kidney-disease.herokuapp.com/
-
-
 ## Demo
 
 <img src="https://raw.githubusercontent.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project/main/Images/gif.gif">
