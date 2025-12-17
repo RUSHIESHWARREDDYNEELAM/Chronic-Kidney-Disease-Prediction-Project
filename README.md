@@ -93,12 +93,3 @@ Push code to Master Branch
 ```bash
   git push heroku master
 ```
-  
-## Feedback
-
-If you have any feedback, please reach out to me at https://www.linkedin.com/in/sagardhandare/
-
-Please do ⭐ the repository, if you like this 😊
-
-
-Thank you ❤
